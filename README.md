@@ -8,11 +8,11 @@ If this is your first time doing anything with JavaScript and the web, fear not 
 
 You can get vs-code [here](https://code.visualstudio.com/download) and I would recommend the following extensions ...
 
-> Bracket Pair Colorizer
+- Bracket Pair Colorizer
 
-> ES7 React/Redux/GraphQL/React-Native snippets
+- ES7 React/Redux/GraphQL/React-Native snippets
 
-> Prettier - Code formatter
+- Prettier - Code formatter
 
 ### Linux (Debian Based)
 
