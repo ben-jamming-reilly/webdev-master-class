@@ -2,7 +2,7 @@
 
 A highly sophisticated app that allows people recall past actions for future completion... 2do.
 
-If you haven't registered yet just follow this [link](https://docs.google.com/forms/d/e/1FAIpQLSeCYHmdR7OmXimsvNf-NlC1tIC7eU0ef1m3e83lbtA8PCKM-w/viewform?usp=sf_link)
+If you haven't registered yet just follow this [link](https://docs.google.com/forms/d/e/1FAIpQLSeCYHmdR7OmXimsvNf-NlC1tIC7eU0ef1m3e83lbtA8PCKM-w/viewform?usp=sf_link), its just a way for me to gauge how many people will coming to the zoom classes and your experience level.
 
 ## Setting Up Your Environment
 
