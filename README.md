@@ -12,7 +12,7 @@ You can get vs-code [here](https://code.visualstudio.com/download) and I would r
 - ES7 React/Redux/GraphQL/React-Native snippets
 - Prettier - Code formatter
 
-As well you should download the program [postman](https://www.postman.com/downloads/), it will help test our back-end routes
+As well you should download the program [postman](https://www.postman.com/downloads/), it will help us test our back-end routes
 
 ### Linux (Debian Based)
 
