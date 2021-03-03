@@ -4,7 +4,15 @@ A highly sophisticated app that allows people recall past actions for future com
 
 ## Setting Up Your Environment
 
-If this is your first time doing anything with JavaScript and the web, fear not as I will provide a step by step guide to configuring your enviroment.
+If this is your first time doing anything with JavaScript and the web, fear not as I will provide a step by step guide to configure your enviroment. You are welcome to use any text editor of your choosing, although I would highly recommend vs-code (not to be confused with Visual Studio).
+
+You can get vs-code [here](https://code.visualstudio.com/download) and I would recommend the following extensions ...
+
+> Bracket Pair Colorizer
+
+> ES7 React/Redux/GraphQL/React-Native snippets
+
+> Prettier - Code formatter
 
 ### Linux (Debian Based)
 
