@@ -9,10 +9,10 @@ If this is your first time doing anything with JavaScript and the web, fear not 
 You can get vs-code [here](https://code.visualstudio.com/download) and I would recommend the following extensions ...
 
 - Bracket Pair Colorizer
-
 - ES7 React/Redux/GraphQL/React-Native snippets
-
 - Prettier - Code formatter
+
+As well you should download the program [postman](https://www.postman.com/downloads/), it will help test our back-end routes
 
 ### Linux (Debian Based)
 
@@ -75,7 +75,7 @@ You can get vs-code [here](https://code.visualstudio.com/download) and I would r
 
 ### Winblows (Windows)
 
-- Go to Git website, download and run the installer [here](https://git-scm.com/download/win)
+- Go to the Git website, download and run the installer [here](https://git-scm.com/download/win)
 
 - Go to the nodejs website, download and run the installer [here](https://nodejs.org/en/download/)
 
