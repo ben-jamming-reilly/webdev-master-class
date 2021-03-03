@@ -8,4 +8,12 @@ If this is your first time doing anything with JavaScript and the web, fear not 
 
 ### Mac / Linux
 
+- Install Node.js
+  For debian based distributions simply type
+
+  ```sh
+  $ sudo apt-get update
+  $ sudo apt-get install nodejs
+  ```
+
 ### Winblows (Windows)
