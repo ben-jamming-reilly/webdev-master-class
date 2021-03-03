@@ -49,7 +49,7 @@ If this is your first time doing anything with JavaScript and the web, fear not 
   $ brew install git
   ```
 
-- Go to the nodejs website and download the installer [here](https://nodejs.org/en/download/)
+- Go to the nodejs website, download and run the installer [here](https://nodejs.org/en/download/)
 
 - Navigate to the directory where you want this project to live
 
@@ -67,11 +67,9 @@ If this is your first time doing anything with JavaScript and the web, fear not 
 
 ### Winblows (Windows)
 
-- Go to git website and download the installer [here](https://git-scm.com/download/win)
+- Go to Git website, download and run the installer [here](https://git-scm.com/download/win)
 
-- Since you use Windows, you will use the Git Bash Command Line as your terminal
-
-- Go to the nodejs website and download the installer [here](https://nodejs.org/en/download/)
+- Go to the nodejs website, download and run the installer [here](https://nodejs.org/en/download/)
 
 - Navigate to the directory where you want this project to live
 
@@ -81,7 +79,7 @@ If this is your first time doing anything with JavaScript and the web, fear not 
   $ git clone https://github.com/ben-jamming-reilly/webdev-master-class.git
   ```
 
-- Install all npm dependencies, type into the terminal
+- Install all npm dependencies, type into the git bash
 
   ```bash
   $ npm install
