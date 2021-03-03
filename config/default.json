@@ -3,5 +3,5 @@
   "db_user": "",
   "db_password": "",
   "db": "",
-  "jwtSecret": "mPNphhZrSFJDfCK"
+  "jwtSecret": ""
 }
