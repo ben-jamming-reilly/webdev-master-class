@@ -1,7 +1,7 @@
 {
-  "db_host": "",
-  "db_user": "",
-  "db_password": "",
-  "db": "",
-  "jwtSecret": ""
+  "db_host": "10.0.0.13",
+  "db_user": "zag",
+  "db_password": "Go20Zags21!",
+  "db": "todo",
+  "jwtSecret": "3IzFEEUcxU96QSu6ZW4K"
 }
