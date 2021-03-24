@@ -1,10 +1,16 @@
-import react from "react";
+import React from "react";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
-function App() {
+import { Provider } from "react-redux";
+import store from "./store";
+
+const App = () => {
   return (
-    <div className="App">
-      hello
+    <Provider store={store}>
+      <div className="App">
+        hello
     </div>
+    </Provider>
   );
 }
 
